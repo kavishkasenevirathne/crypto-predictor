@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Data & model artifacts
+data/
+models/
+results/
+artifacts/
+logs/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment & secrets
+.env
+.DS_Store
+
+# OS / IDE
+Thumbs.db
+.vscode/
+.idea/
+ 

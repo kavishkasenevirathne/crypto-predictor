@@ -1,0 +1,14 @@
+ccxt
+pandas
+numpy
+scikit-learn
+lightgbm
+torch
+fastapi
+uvicorn
+backtrader
+pyarrow
+streamlit
+joblib
+pytest
+ 
